@@ -1,0 +1,43 @@
+Posts: 3691 across 12 months (2025-11 to 2026-10)
+Post length: median 1026 characters, 90th percentile 1730
+  mentions remote: 54.8%
+  mentions onsite: 30.8%
+  mentions hybrid: 20.0%
+  mentions a salary figure: 38.2%
+  headline looks data/ML (weak label): 22.1% (815 posts)
+
+Posts per month (all / data-ML headline):
+              posts  data_ml_posts
+thread_month                      
+2025-11         392             98
+2025-12         375             82
+2026-01         256             55
+2026-02         406             91
+2026-03         316             66
+2026-04         328             69
+2026-05         313             66
+2026-06         308             75
+2026-07         259             49
+2026-08         225             52
+2026-09         248             49
+2026-10         265             63
+
+Top 15 skills in data/ML-headline posts (share of those posts):
+                  share_data_ml_posts  share_all_posts
+Python                           31.4             25.1
+Machine learning                 30.2             14.1
+LLM                              26.9             13.4
+React                            22.5             23.5
+TypeScript                       21.8             23.9
+AWS                              16.7             15.6
+Postgres                         16.3             18.6
+Kubernetes                        9.1              9.2
+RAG                               7.4              2.5
+GCP                               7.0              5.4
+PyTorch                           6.5              2.1
+Docker                            6.3              6.0
+Terraform                         6.1              5.9
+Generative AI                     5.3              2.0
+Rust                              4.9              8.4
+
+Wrote tables and figures to results/
