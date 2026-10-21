@@ -119,10 +119,14 @@ def main():
         ax.plot(smooth.index, smooth[s], marker="o", label=s)
     ax.set_ylabel("% of all posts (3-month rolling average)")
     ax.set_title("How demand for selected skills changed over time")
-    ax.legend(ncol=3)
+    ax.legend(loc="center left", bbox_to_anchor=(1.01, 0.5))   # outside, so it hides no data
     plt.setp(ax.get_xticklabels(), rotation=45, ha="right")
-    fig.tight_layout()
-    fig.savefig(out / "figures" / "skill_trends.png", dpi=150)
+    lo, hi = int(month_counts["posts"].min()), int(month_counts["posts"].max())
+    fig.text(0.01, 0.005,
+             f"Each month rests on {lo}-{hi} posts; shifts of a few points can be sampling noise.",
+             fontsize=8, color="#555555")
+    fig.tight_layout(rect=(0, 0.03, 1, 1))
+    fig.savefig(out / "figures" / "skill_trends.png", dpi=150, bbox_inches="tight")
     plt.close(fig)
 
     thin = month_counts[month_counts["data_ml_posts"] < MIN_POSTS_FOR_MONTH_ESTIMATE]
