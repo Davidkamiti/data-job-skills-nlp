@@ -1,0 +1,387 @@
+thread_month,thread_id,post_id,posted_at,headline,text,n_chars
+2025-12,46108941,46108949,2025-12-01T16:01:56.000Z,klarasystems.com | OpenZFS Developer | REMOTE | Full-time Contract,"klarasystems.com | OpenZFS Developer | REMOTE | Full-time Contract
+We successfully hired from HN in the previous round and are looking for another OpenZFS Developer (3+ years of experience) to join our team!
+Klara Inc. provides development & solutions focused on open source software and the community-driven development of OpenZFS and FreeBSD. We develop new features, investigate/fix bugs, and support the community of these important open source infrastructure projects. Some of our recent work includes major ZFS features such as Fast Deduplication (OpenZFS 2.3: https://github.com/openzfs/zfs/discussions/15896) and AnyRAID: https://github.com/openzfs/zfs/pull/17567.
+We’re looking for an OpenZFS Developer with:
+- Strong C programming skills and solid understanding of data structures
+- Experience with file systems, VFS, and OS internals (threading, locking, IPC, memory management)
+- Familiarity with ZFS internals (DMU, MOS, vdevs, ZPL, datasets, boot environments)
+- Ability to work across Linux, FreeBSD, or illumos environments
+Previous upstream contributions to OpenZFS or other open source projects are a big plus.
+Submit an application through our site: https://klarasystems.com/careers/openzfs-developer/",1220
+2026-10,49922569,49931051,2026-10-02T08:09:37.000Z,"JUPUS | Engineering Manager, Applied AI | REMOTE (CET ±2) | Full-time | Up to €160k base | https://jupus.de","JUPUS | Engineering Manager, Applied AI | REMOTE (CET ±2) | Full-time | Up to €160k base | https://jupus.de
+JUPUS is an AI platform for German law firms, from client intake to drafted briefs. 2,000+ lawyers use it daily.
+You'll own AI at JUPUS: the Applied AI team (5 direct reports), the technical roadmap and the quality bar. No delivery commitments. You make the architecture calls on retrieval, evaluation and agent design.
+You've managed engineers with direct reports, and spent 3+ years at a company where agentic AI is central to the product.
+85 people, €19.5M raised, fully remote.
+Apply here: https://jobs.ashbyhq.com/jupus/a40c4367-20c9-4afe-9b6c-bdc86...
+Please mention HN in your application if you saw the role here.",729
+2025-12,46108941,46112902,2025-12-01T20:40:24.000Z,IHI Terrasun (ihiterrasun.com) | Chicago or REMOTE (US) | Senior or Staff Controls Engineer,"IHI Terrasun (ihiterrasun.com) | Chicago or REMOTE (US) | Senior or Staff Controls Engineer
+At IHI Terrasun we do design and integration for solar + battery storage projects across the US. We recently finished the largest solar + storage project in the US (Gemini - located outside of Las Vegas). Read more about it here: https://www.primergygemini.com
+We are looking for a controls engineer to join our engineering team. Experience in the battery storage industry is a plus, but not required. Familiarity with HMI development, Ignition, RTAC, Allen Bradley, or SEL control systems and IEC-61131-3 programming language is a plus.
+Reach out to me at jminardi at the domain above to learn more or apply.",701
+2026-02,46857488,46871062,2026-02-03T14:00:13.000Z,"Connie Health | https://www.conniehealth.com | Multiple engineering roles | Hybrid (Boston, MA) | Full-time","Connie Health | https://www.conniehealth.com | Multiple engineering roles | Hybrid (Boston, MA) | Full-time
+Connie Health is a fast-growing startup on a mission to empower older Americans to make confident, worry-free healthcare decisions. Backed by leading investors such as Khosla Ventures and HealthQuest, we are building technology to transform the trillion dollar Medicare insurance industry, impacting the lives of 67 million people in the US. You will work at the intersection of the latest in applied AI/ML, software engineering, product, and infrastructure to build our best-in-class Medicare navigation and sales platform.
+-------
+We are looking to fill multiple positions on our rapidly growing engineering team, based out of Boston, MA:
+Fullstack Engineer | $120k-$140k + equity | Responsibilities: Build the core tools that our Medicare agents rely on every day to serve customers efficiently and accurately | Tech stack: TypeScript, NestJS, Vue, Nuxt, Postgres, AWS, Docker + Kubernetes, Datadog
+Senior Data Operations Analyst | $100k-$110k + equity | Responsibilities: Operations-heavy ""data detective"" role focused on the ensuring the quality of our core business data, investigating complex data discrepancies, identifying root causes, and implementing long-term fixes | Tech stack: SQL, Postgres, Redshift, Looker, Google Sheets
+Senior Data Engineer | $140k-$160k + equity | Responsibilities: Architect, build, and scale the data platform and data pipelines that powers our analytics, operations, and AI-driven products | Tech stack: SQL, Postgres, Redshift, dbt, python, AWS, Airflow, Looker, Salesforce, Fivetran
+Senior Backend Engineer | $140k-$160k + equity | Responsibilities: Own and evolve the core policy status tracking and commissions payment systems, powering financial reporting, policy lifecycle management, agent compensation, carrier reconciliation, and customer trust | Tech stack: TypeScript, NestJS, Postgres, AWS, Docker + Kubernetes, Salesforce, Datadog
+-------
+Apply: https://recruiting.paylocity.com/recruiting/jobs/All/28c82b8...
+These are all hybrid positions in our Boston office near South Station, so local candidates only please. 
+Unfortunately we are unable to do visa sponsorships at this time.",2242
+2026-01,46466074,46467801,2026-01-02T18:31:26.000Z,Ziva.sh | Expert Godot developer | Remote | Contract position,"Ziva.sh | Expert Godot developer | Remote | Contract position
+Ziva.sh integrates AI to make developing games in Godot over 2x faster. We are an early stage company with developers in Canada, US and India, and are looking for Godot experts to use and enhance our product.
+Compensation depends on developer ability, and we offer flexible hours and equity.
+Email [email] with a brief overview of your Godot work to apply.",418
+2026-06,48357725,48439500,2026-06-07T22:57:46.000Z,Founding Senior (AI/Software) Engineer | NYC | https://www.l2labs.ai/,"Founding Senior (AI/Software) Engineer | NYC | https://www.l2labs.ai/
+L2 Labs is a brand new applied AI lab building machine intelligence for data integration and interoperability. We're fast growing: we closed a pre-seed funding round, established partnerships with Cornell and NYU, and secured a large enterprise customer in less than 3 months. We are a team of hard-working researchers and engineers who are obsessive about intricate, greenfield data problems - we love whiteboarding, spinning up experiments, ordering pizza, and suddenly it’s 2am and we've actually solved something. We build impactful products + publish in A* research venues.
+We are currently seeking Founding Senior SWEs, with very meaningful upside in the form of a generous equity package + working alongside skilled engineers and PhDs from top universities. To learn more/reach out, email me at [email] We are able to sponsor international candidates.",928
+2025-12,46108941,46113577,2025-12-01T21:36:13.000Z,NODA AI | Multiple Roles | Austin TX | Full-time | ONSITE,"NODA AI | Multiple Roles | Austin TX | Full-time | ONSITE
+NODA is a veteran-owned, venture-backed technology company that is transforming how unmanned systems collaborate in complex, mission-critical environments. We are developing next-generation solutions that enable the autonomous orchestration of heterogeneous unmanned systems across air, sea, land, and space with vital applications in the defense, intelligence, and commercial sectors.
+We're looking to scale fast in 2026 and actively hiring for multiple roles, including:
+- AI/ML Engineer
+- Autonomy Engineer
+- Field Ops Engineer
+- Forward Deployed Engineer
+- Senior Full Stack Engineer
+- Networking Engineer
+- Senior Platform Engineer
+- Simulation Engineer
+- UI Engineer
+See latest job listings and descriptions on our website:
+https://www.nodaintelligence.ai/careers/",828
+2026-03,47219668,47330329,2026-03-11T00:02:25.000Z,"Rad AI | Remote in US+Canada, and new office in San Francisco at 2nd+Market ","Rad AI | Remote in US+Canada, and new office in San Francisco at 2nd+Market 
+Empowering physicians with best-in-class AI radiology solutions to save time, reduce burnout, and improve patient care. Series C with tremendous momentum.
+High-priority technical roles in ML, Senior Cybersecurity Analyst, Infrastructure Engineering
+Unique Head of Continuity role, looking for former founder with strong technical background and product sense
+See all open roles and apply here >> https://www.radai.com/careers?utm_source=W29wy29rlJ",524
+2026-03,47219668,47224874,2026-03-02T22:08:10.000Z,CrossnoKaye | Sr. Software Engineer in Test | REMOTE (US),"CrossnoKaye | Sr. Software Engineer in Test | REMOTE (US)
+Hi HN! CrossnoKaye is a Series C startup tackling climate change by transforming the heavy industrial sector. Our platform uses real-time optimization, advanced modeling, and modern cloud infrastructure to deliver 40% average energy savings and megaton-scale emissions cuts across industrial facilities. https://crossnokaye.com/
+We’re hiring for a Sr. Software Engineer in Test to join our Platform team. We’re looking for a hands-on engineer who loves Golang, backend frameworks, and automated testing. You’ll play a key role in shaping the architecture, testability, and quality of our platform. This is a hands-on senior IC role with strong ownership. Must have strong proficiency in Go.
+Interested? Email our team: [email] -- Please include a resume and the title of the role within the subject line.
+Thank you & I look forward to hearing from you!",910
+2026-05,47975571,47975772,2026-05-01T15:14:53.000Z,"CodeWeavers | St Paul, MN, USA | Full Time | REMOTE | Wine and General Open Source Developers | C-language systems programming","CodeWeavers | St Paul, MN, USA | Full Time | REMOTE | Wine and General Open Source Developers | C-language systems programming
+https://www.codeweavers.com/about/jobs
+CodeWeavers needs new, full-time developers to improve Wine's ability to run games and other types of software and integrate well with the native operating system and other system components. Positions are available to work on a variety of Wine-based software, including CodeWeavers's own CrossOver product; the Proton project for Valve Software; and projects for other clients and software internal to CodeWeavers.
+We are hiring remote programmers, US or international, as well as workers local to Saint Paul, Minnesota. We will consider relocation, if desired, on a case-by-case basis. Please see link above for information, benefits, requirements, and how to apply.
+Please direct any questions to the email address on our Jobs page.",901
+2025-11,45800465,45813360,2025-11-04T17:11:23.000Z,Replica Hq | Full-stack engineer | New York City Onsite (Hybrid) | NYC Area Required | Full-time,"Replica Hq | Full-stack engineer | New York City Onsite (Hybrid) | NYC Area Required | Full-time
+Replica provides data about the built environment and ways people interact with it. With better data, human-context and an intuitive design, Replica helps public and private sectors make informed, effective, and responsive decisions. By showing how people live, move and work, we contextualize hard choices, allowing our clients to see around corners and understand the trade-offs surrounding their decisions. Whether for a city planner increasing public transit to underserved neighborhoods or for a grocery chain evaluating where to open a new location, Replica’s insights lets clients make more informed, people-centered decisions.
+We’re hiring a Software engineer to focus on developing our react-based web platform. This is a full-stack software engineering role in both front-end and back-end web application development. You will develop and implement functional workflows that enable customers to process and analyze complex urban data, make data-driven decisions, and efficiently manage urban planning operations
+See the Full Job Rec & Apply at https://replicainc.applytojob.com/apply/7njkiRsLA2/Software-...",1214
+2025-11,45800465,45802394,2025-11-03T18:23:39.000Z,"Resemble AI | San Francisco Bay Area (Mountain View, CA) | Full-Time","Resemble AI | San Francisco Bay Area (Mountain View, CA) | Full-Time
+We're creating state of the art AI models, including the leading foundation model for Deepfake Detection. Looking for full stack, frontend and machine learning engineers that would love to create prototypes directly with the founders.
+Here's what we're looking for:
+Frontend Engineer - We're looking for a Frontend Engineer to build intuitive interfaces for our AI platform. You'll work with React/TypeScript to create exceptional user experiences that make complex AI technology accessible to both developers and enterprise users.
+Full Stack Engineer (Onsite only) - We are seeking a skilled Full Stack Engineer with experience with both Javascript and Python to join us. The ideal candidate will have a strong background in building and deploying web applications, a passion for working on cutting-edge AI technologies, and the ability to collaborate closely with our founders to create innovative prototypes.
+Backend Engineer - Looking for Ruby on Rails and/or Python Developers to join our backend team. Scale up ML systems, make inference run more efficiently, and expose public facing APIs.
+DevRel (Onsite only) - We're looking for a Developer Relations engineer to champion our voice AI APIs and open-source projects within the developer community. The ideal candidate will create compelling demos, technical content, and documentation while helping developers integrate our AI models.
+Growth Marketing (Onsite only) - Seeking a data-driven growth marketer to accelerate adoption of our AI models across enterprise and developer segments.
+If interested, reach out directly to me: zohaib [at] resemble.ai",1679
+2026-05,47975571,47988482,2026-05-02T17:29:30.000Z,Yidi's Consulting | Senior Full-Stack Engineer | REMOTE (LATAM/EU time zones welcome) | Contract-to-hire | $40/hr | yidisconsulting.com,"Yidi's Consulting | Senior Full-Stack Engineer | REMOTE (LATAM/EU time zones welcome) | Contract-to-hire | $40/hr | yidisconsulting.com
+We're a 4-person boutique consulting shop in Albany, NY building custom web apps for healthcare, legal, and education clients. Looking for a senior engineer to work alongside the founder on production systems for clients.
+Stack: Go (Echo, ENT), PostgreSQL, AWS, Cloudflare, Clerk, Alpine.js, Tailwind, Vite, Terraform. We have a proprietary ~1M-line Platform Foundation that anchors most projects.
+You: Shipped real Go in production (not ""willing to learn""). Comfortable across the stack. Opinions about migrations, RBAC, and not-overengineering. English fluent enough to talk directly with clients.
+Process: Paid trial task → 3-month contract → conversion to long-term contractor. No middlemen, no platform markup.
+Apply: [email] with a Go project you're proud of and a brief note on how you'd approach a vertical-slice task touching ENT, an Echo handler, and an Alpine component.",1017
+2026-10,49922569,50059584,2026-10-12T17:17:48.000Z,StartupHakk | AI Engineer Apprentice | Remote (UT or ID residents only) | Full-time | $7.25–$10/hr | startuphakk.com/jobs,"StartupHakk | AI Engineer Apprentice | Remote (UT or ID residents only) | Full-time | $7.25–$10/hr | startuphakk.com/jobs
+We are hiring military veterans (and transitioning service members) living in Utah or Idaho for a paid, 1-year registered remote apprenticeship program in full-stack web development and applied AI.
+What You'll Do & Learn:
+Full-stack development: C# .NET, React.js, SQL, HTML/CSS, cloud platforms, and DevOps.
+Applied AI Engineering: Prompt engineering, LLM integration, running open-source models locally, and building AI features into web applications.
+2,000 hours on-the-job learning + 144 hours structured instruction.
+Requirements:
+U.S. Military Veteran or transitioning service member residing in UT or ID.
+18+ years old, HS diploma/GED, eligible to work in the U.S.
+Strong passion for tech and continuous learning.
+Progressive wage: $7.25/hr (first 1,000 hrs) -> $10.00/hr (second 1,000 hrs).
+Apply:
+Learn more and apply at https://startuphakk.com/jobs",980
+2026-02,46857488,46879486,2026-02-04T00:19:17.000Z,Dialogica | Fullstack AI Agent Engineer | Santa Monica | ONSITE | $120k – $160k + Equity,"Dialogica | Fullstack AI Agent Engineer | Santa Monica | ONSITE | $120k – $160k + Equity
+We are building ""Iron Man"" for litigation. Our endgame is an AR application for smart glasses that gives lawyers real-time intelligence—flagging discrepancies and prompting objections during live trials. Before the glasses, we're shipping the brain: a desktop voice interface that gives lawyers ""Jarvis-like"" control over workflows (redlining, scheduling, billing).
+The Role We are looking for a finisher to join our small engineering team in Downtown Santa Monica. We have a hard product launch on March 9th at a 6,000-person conference. The work is high-intensity (5.5 days/week) and high-impact. You will optimize voice-interface latency, build LLM workflows with LangChain, and own your code end-to-end.
+Requirements
+Stack: Go, Rust, and/or SolidJS (Production experience required).
+LLM Native: Experience with model-agnostic architectures (OpenAI, Anthropic, Gemini), tool calling, and streaming.
+Offer
+$120k – $160k salary + significant equity (0.0% – 1.0%).
+Seed stage ($2.3M raised).
+Benefits: Free dental/vision/gym; Kaiser health plans (Bronze free, others subsidized).
+Location: In-person, 3 blocks from the beach in Santa Monica.
+To Apply: Email [email] with the subject ""HN job application"" and include a link to your GitHub.",1327
+2026-09,49522897,49546647,2026-09-03T06:44:10.000Z,Prophet Town LLC | Various Software Engineering Roles | US – Remote and Hybrid | English fluency required | Full-time | $140K-$264K annual total comp (multiple),"Prophet Town LLC | Various Software Engineering Roles | US – Remote and Hybrid | English fluency required | Full-time | $140K-$264K annual total comp (multiple)
+We are a people-first, boutique tech agency creating on-demand teams and software solutions for long-standing clients. These clients trust us to practice engineering excellence as though we were members of their own staff. Our leadership team is ex-Fortune 100 with software engineering backgrounds: we’re still coding. Notable recent projects include a gigantic ERP migration for Anduril, and working with Surge Labs to help develop some of the frontier LLM models from the big guys themselves (yes, seriously). This is a remote-first agency, but some projects involve onsite work.
+I’m the founder and CEO, and I’m trying to do what I call “enlightened business”. I take responsibility for both staff and clients, and I look for people who approach their work with a similar sense of ownership.
+For September 2026: our current work would especially benefit from from ai-forward senior engineering expertise that can design RL benchmarks, red-team model outputs, and create rubrics to evaluate and enhance the agentic coding capabilities of various frontier models. We received 216 applications in our August posting, and issued offers to approximately 10 (still following up with a few).
+Applicants must meet a high bar - I intend to have a personal relationship with every hire. In return you’ll get:
+ * Flexibility and a low-bureaucracy environment
+ * Clients that won’t treat the vendor like “the B Team”
+ * The chance to act as a code architect, not just implement tickets
+ * Exposure to a wide variety of industries and modern challenges
+ * Me as your personal champion and advocate
+Feel free to submit, even if you already did in the past.
+Current roles available:
+Back-end, Front-end, and Full-Stack Software Engineers, Tiers 3 and 4
+(Typescript/Javascript, React, NextJS; Ruby on Rails; Python; DevOps, and third-party API integrations)
+Tier 3 roles are typically 5-10 years experience with $140-$180K total comp. Tier 4 roles are 11-20 years experience, $210-$264K total comp. Higher tiers exist, and we always welcome exceptional applications.
+Please apply using this Google Form: https://forms.gle/tZwq7j2Ldwcas1wb7.",2289
+2025-12,46108941,46115258,2025-12-01T23:48:03.000Z,"New Lantern | https://newlantern.ai | Software engineers (frontend and backend product engineers) | Full time in San Francisco, CA (ONSITE)","New Lantern | https://newlantern.ai | Software engineers (frontend and backend product engineers) | Full time in San Francisco, CA (ONSITE)
+New Lantern is building an AI radiology resident—think Cursor for radiologists. Our application integrates the three software tools radiologists use all day [1], together with AI, to create a platform that saves radiologists toil and lets them focus on reading images and finding disease.
+We are a series A startup with ~15 engineers (~25 total staff), have live customers generating revenue, several years of runway, and are backed by Benchmark, Anthropic, and other great investors.
+We're hiring for several engineering roles. You'll work directly with our founder/CEO, our staff radiologists, and our end users to build a product that radiologists rely on daily. You'll have real ownership and autonomy, and ship meaningful work frequently. Learn more and apply at https://careers.newlantern.ai
+I'm Steve, New Lantern's Head of Engineering. If you're interested or want to learn more, shoot me a note at (my HN username)@newlantern.ai.
+[1] a radiology image archive & viewer, a medical report dictation system, and work management system",1180
+2026-09,49522897,49530424,2026-09-02T00:58:55.000Z,"This Dot Labs | Senior Android Engineer (Kotlin), Senior React Native Engineer, Senior JavaScript Engineer, Software Architect | REMOTE","This Dot Labs | Senior Android Engineer (Kotlin), Senior React Native Engineer, Senior JavaScript Engineer, Software Architect | REMOTE
+This Dot Labs is an AI-native software engineering consultancy with a remote-first, global team. We help companies design, build, modernize, and scale production software.
+We are hiring experienced engineers for:
+* Senior Android Engineer (Kotlin)
+* Senior React Native Engineer
+* Senior Software Engineer (JavaScript, React, Angular, Vue)
+* Software Architect
+You will work directly with clients and collaborate with experienced engineers across time zones. We value strong communication, independent ownership, technical excellence, and active participation in the developer community.
+Details and applications: https://www.thisdot.co/jobs
+Questions: [email]
+Please mention Hacker News when applying.",838
+2026-03,47219668,47290112,2026-03-07T18:23:46.000Z,Clipster | Remote (UTC+2) | Full-Time,"Clipster | Remote (UTC+2) | Full-Time
+Clipster is where brands and creators connect to turn views into profits. We help creators earn through performance-based content and enable brands to scale organic content marketing with measurable results.
+We launched our platform in early 2025 and have since grown to 35 team members, 80,000+ active users, and $3.8M+ in payouts. We’ve acquired 120+ clients fully organically through word of mouth.
+Our clients and partners include Telegram, UFC, Universal Music Group, and artists like Elton John, Ed Sheeran, Playboi Carti, and Kendrick Lamar.
+We’re profitable, growing fast, and backed by our first investor.
+We’re hiring:
+Engineering Manager — $84k+ annual
+Looking for someone with a strong engineering background, people management experience, and hands-on knowledge of Go / Golang.
+Stack: Golang, Python, Node.js, PostgreSQL, GCP.
+Senior Product Manager — $72k–96k annual
+Own key product areas, work closely with the founder, and help shape product strategy in a fast-moving startup environment.
+Looking for 5+ years in Product Management and strong ownership.
+Product Designer — $48k–72k annual
+Design core product experiences for creators and brands, from flows and wireframes to polished UI.
+Looking for 3–5 years in Product Design, strong Figma skills, and startup-style ownership.
+Founding Sales Lead — $36k–72k annual
+Own inbound sales, build pipeline in HubSpot, run outbound, and help create the sales process from scratch.
+Looking for someone with 3–6 years in sales and strong closing skills.
+General requirements: strong English and availability to work with CET overlap.
+See details:
+notion.so/Work-at-Clipster-1ee4a057b8c980369a2bf7b94a876dfb
+Apply:
+[email]",1717
+2026-05,47975571,47976639,2026-05-01T16:27:20.000Z,Marker | Full-time | REMOTE or HYBRID (NYC/SF/London) | https://markercollective.com,"Marker | Full-time | REMOTE or HYBRID (NYC/SF/London) | https://markercollective.com
+Marker is a technology joint venture from 3 leading communications agencies. We’re an incubator building and launching force-multiplying software products for communications teams.
+Our first product is Delve (https://delve.news) — a coverage monitoring, analysis, and insight toolkit to track and measure the entire online conversation about your business or industry.
+Our product team is small and autonomous, but with the resources, expertise, and customer access of the global agencies we work with. We’re hiring an early engineer to join us on this journey; you’ll have a large impact on what we build, how we build it, and where we’re going next.
+Our technology stack includes Deno, React, PostgreSQL, and Elasticsearch. Bonus points for expertise in any of: data visualization, distributed systems, web scraping, large-scale data pipelines.
+Apply: https://careers.markercollective.com/jobs/479834-software-en...
+No recruiters or agencies, please.",1037
+2026-10,49922569,49982803,2026-10-06T19:20:52.000Z,depproof | Part-time B2B Sales Lead | REMOTE (US) | Part-time | Equity + commission | https://depproof.com,"depproof | Part-time B2B Sales Lead | REMOTE (US) | Part-time | Equity + commission | https://depproof.com
+Most of the code a team ships is third-party, and scanners flag hundreds of vulnerabilities in it. depproof tells you which few attackers are actually exploiting, so you fix those first. It runs inside your own environment, and your code never leaves.
+We're a small, founder-led company looking for a part-time sales lead who has sold to security or engineering teams: running first conversations, shaping the pitch, and closing our first customers.
+You may reach out to me at: prasadv at depproof.com",608
+2026-03,47219668,47220359,2026-03-02T16:42:03.000Z,"Baseten Labs | San Francisco, New York |ONSITE, REMOTE, HYBRID | VISA SPONSORSHIP | RELOCATION SUPPORT","Baseten Labs | San Francisco, New York |ONSITE, REMOTE, HYBRID | VISA SPONSORSHIP | RELOCATION SUPPORT
+We are Baseten, the team that powers mission-critical inference for the world’s most dynamic AI companies such as Cursor, Notion, OpenEvidence, Abridge, Clay, Gamma and Writer. We’re growing quickly and recently raised our $300M Series E, backed by investors including BOND, IVP, Spark Capital, Greylock and Conviction.
+By uniting applied AI research, flexible infrastructure, and seamless developer tooling, we enable companies operating at the frontier of AI to bring cutting-edge models into production.
+Apply Here: https://jobs.ashbyhq.com/baseten?utm_source=gkzEP29VD4 or email [email]
+We are hiring for multiple core roles:
+1. Solution Architect: You will partner closely with sales and customers to translate business needs into technical solutions, run technical discovery, and guide repeatable deployments and proofs of value for customers. This role is a great fit for entrepreneurial, customer-facing technical professionals who want a front-row view into how modern companies adopt AI at scale, and who enjoy working across technical discovery, solution design, demos, deployment scoping, and hands-on customer implementations, in close partnerships with Sales and Engineering
+2. AI Solutions Engineer/Forward Deployed Engineer: You will partner directly with customers to architect, build, and deploy high-scale production AI applications on Baseten’s platform. You’ll own the journey with customers from initial exploration to production deployment. To be clear, this is a technical engineering role with hands-on coding and software dev that also includes aspects of product management, technical customer success and pre-sales solutions engineering mixed in. We’re language agnostic but strong Python and ML experience is a big plus.
+3. Forward Deployed SRE: You will serve as the primary post-sales technical owner for our most strategic customers, ensuring smooth deployment, performance, and reliability of ML workloads in production. The role blends hands-on debugging, infrastructure expertise, AI model performance, and executive level customer facing ownership. We’re looking for deep Kubernetes and container orchestration experience along with a polished communication and executive level presence.
+The Offer:
+Compensation: Very competitive, we’re looking for folks with a breadth of experience
+Equity: This is an opportunity to participate in the ownership of a fast-growing AI Infrastructure platform
+Location: We are based out of San Francisco with offices in New York. We are also open to remote employees for these roles.
+Process: If you’re interested, please apply here https://jobs.ashbyhq.com/baseten?utm_source=gkzEP29VD4 or email me direct at [email]",2788
+2025-12,46108941,46111968,2025-12-01T19:32:17.000Z,"HomeVision | Multiple Roles - Eng, SRE, Analytics | Hybrid SF & Remote | Full-Time | $100k-$220k + equity","HomeVision | Multiple Roles - Eng, SRE, Analytics | Hybrid SF & Remote | Full-Time | $100k-$220k + equity
+We have three open roles:
+- Engineer - Hybrid SFO I'm looking for an junior-to-senior software engineer to work with me (CTO) directly. Our systems process millions of pages of documents a month for the mortgage industry. We work with some of the largest lenders in the country and are at the forefront of applying LLMs and other multi-modal models in this industry.
+New-grad and junior engineers particularly encouraged to apply. Looking for people who are motivated to write good code with a good mix of practicality and aesthetics.
+- SRE - US Remote (SFO or Seattle preferred) - This is a broad role on the platform team including AWS infra w/terraform, software engineering, and IT
+- Analytics Engineer - US Remote (SFO or Seattle preferred) - Another broad role that includes managing the data warehouse, building durable and ad-hoc reports in sql and python, and doing deep analysis.
+Please apply here: https://jobs.ashbyhq.com/homevision/a3f79d43-5d9e-46bf-a43f-...",1078
+2026-07,48747976,48774583,2026-07-03T13:08:34.000Z,"Amo | Senior Software Engineers (Rust, iOS, Android) | Paris, France | ONSITE | Full-time | Visa Sponsorship","Amo | Senior Software Engineers (Rust, iOS, Android) | Paris, France | ONSITE | Full-time | Visa Sponsorship
+At amo, we are building consumer social apps designed to get people off their phones and into IRL interactions. We work together on-site 5 days a week in Paris. Relocation is fully supported.
+We have several open positions on our engineering team, including:
+* Backend Software Engineer (Rust): Prior Rust knowledge is optional; looking for deep expertise in distributed systems, scalability, and reliability.
+* iOS Software Engineer (Swift)
+* Android Software Engineer (Kotlin)
+* and more
+Check out all of our open positions and apply here
+https://jobs.ashbyhq.com/amo?utm_source=Rdm7gEVjvO
+Also if you have any questions about the team, product, relocation process feel free to get in touch directly with me via https://www.linkedin.com/in/morenol/",859
+2026-02,46857488,46858321,2026-02-02T17:05:14.000Z,Dashdoc | France | REMOTE (from France) | Full-time | https://www.dashdoc.com/,"Dashdoc | France | REMOTE (from France) | Full-time | https://www.dashdoc.com/
+Dashdoc is a fast-growing transport management platform for the road freight transportation industry.
+We're hiring a Lead Software Engineer to work on our Invoicing domain. Small 3-person (including you) team, great impact on tens of thousands of people using the tool all day everyday, great colleagues, international context, access to good tools (Cursor, Claude Code).
+https://dashdoc.welcomekit.co/companies/dashdoc/jobs/lead-so...",514
+2026-10,49922569,49937058,2026-10-02T18:44:13.000Z,"Vola Dynamics | Software Engineers (C++, Python) | NYC / CT | HYBRID | Full-time","Vola Dynamics | Software Engineers (C++, Python) | NYC / CT | HYBRID | Full-time
+Vola Dynamics (https://voladynamics.com) builds the core C++/Java/C#/Python quant library that powers options trading and analytics at many of the world’s most sophisticated prop shops, market makers, hedge funds, and banks. Our volatility fitter and ultra-fast option pricers are the market standard.
+We're hiring for C++ engineers to work on our core library as well as Python engineers to build a new streaming data infrastructure from the ground up.
+Work style: Hybrid in NYC or South Norwalk, CT. In-office on Tuesday and Thursday.
+Apply here (https://jobs.ashbyhq.com/voladynamics) or email us at ""resumes [at] voladynamics [dot] com"" and mention HN in the subject.",752
+2026-03,47219668,47235390,2026-03-03T17:07:04.000Z,"Mobian is hiring Senior / Staff Engineers (Remote, Global) — AI-First Systems + Rapid Prototyping","Mobian is hiring Senior / Staff Engineers (Remote, Global) — AI-First Systems + Rapid Prototyping
+Mobian is a brand safety, contextual intelligence, and measurement company working with the world's largest advertisers and publishers.
+https://themobian.ai/about
+https://www.linkedin.com/company/themobian/posts/?feedView=a...
+We’re building AI-powered brand safety and suitability infrastructure — and we’re hiring engineers across two tracks: 
+Core Systems Engineers to design, scale, and harden production-grade APIs, data pipelines, ML deployments, cloud infrastructure leveraging the latest AI tooling.
+AI Prototyping Engineers to move fast with LLMs, browser automation, and experimental workflows — and turn winning experiments into durable product features.
+What we value:
+AI-first mindset — you instinctively reach for automation and models to solve problems
+Strong product ownership — you can run full-stack initiatives end-to-end
+10+ years of engineering experience and deep systems thinking
+Bias toward experimentation, speed, and iteration
+Please reach out to [email] with your resume, linkedin profile and github handle.",1132
+2025-11,45800465,45933115,2025-11-14T22:52:08.000Z,Timestored | React UI Engineer (Data-Heavy UIs / SlickGrid) | Remote | Contract,"Timestored | React UI Engineer (Data-Heavy UIs / SlickGrid) | Remote | Contract
+POSITION NOW CLOSED TO APPLICATIONS.
+We build Pulse, a real-time analytics UI used in finance: https://www.timestored.com/pulse/ Looking for a React engineer experienced with complex data UIs to help improve our grid layer (SlickGrid), add grouping/aggregations, and polish high-performance components. Work directly with the founder; flexible hours; contract with option to extend.
+Code: https://github.com/timestored/pulseui
+POSITION NOW CLOSED TO APPLICATIONS.",543
+2026-06,48357725,48361940,2026-06-01T20:08:46.000Z,"Global Partners — Senior Director, Data Engineering Location: Waltham, MA (moving to Newton, MA within the next month) ","Global Partners — Senior Director, Data Engineering Location: Waltham, MA (moving to Newton, MA within the next month) 
+Pay Range $182,300.00 - $291,500.00
+Fortune 500 energy company (fuel distribution, terminals, retail, etc.).
+Hiring a Senior Director, Data Engineering to lead our data platform (Snowflake, dbt, Dagster, DataHub), team, and strategy. Actively hiring- Apply: https://careers.globalp.com/senior-director-data-engineering...",441
+2025-11,45800465,45802028,2025-11-03T17:54:50.000Z,"Arcol | Senior Software Engineer | NYC, SF, or Remote (US) | Full-time","Arcol | Senior Software Engineer | NYC, SF, or Remote (US) | Full-time
+Arcol (arcol.io) is a small, high talent density team building the future of building design - a future that's collaborative, fast, and intuitive. We're a web-native, fully collaborative 3d design tool modernizing the experience of architectural design for teams of all sizes.
+We're looking for senior engineers with experience in modern web technologies - some of our key technical building blocks are Typescript, Rust, wasm, WebGL - and a strong ownership mindset. Experience with computational geometry, computer graphics, or similar a strong plus. This role sits at the intersection of solving deep technical foundational challenges with shipping a product that solves real problems for real people.
+Reach out to me directly at [email] or peruse our careers page (https://www.arcol.io/careers) - we'd love to hear from you!",898
+2026-01,46466074,46594731,2026-01-12T21:47:22.000Z,Crypto bros needed!,"Crypto bros needed!
+[Midl] - (REMOTE) Frontend developer - https://forms.gle/GzwXL2qwHXNMPXt27
+[Ditto] - (REMOTE) Development Lead - https://forms.gle/UTGp6vY6GA7uefB26
+[Midl] - (REMOTE) Backend developer - https://forms.gle/XdYHTZokBRYbX28u9
+[Midl] - (REMOTE) Senior Smart Contract & Backend Engineer - https://forms.gle/eedvyTx17Y35MVWZ9
+[Midl] - (REMOTE) Lead Backend Developer - https://forms.gle/9vvj1GDFrmYXsZo16",418
+2025-11,45800465,45800893,2025-11-03T16:31:07.000Z,Layer Health | https://www.layerhealth.com/ Our Team: https://www.linkedin.com/company/layerhealth/people/ BOSTON (Boston Common) or NYC (downtown) - hybrid in both locations; no remote,"Layer Health | https://www.layerhealth.com/ Our Team: https://www.linkedin.com/company/layerhealth/people/ BOSTON (Boston Common) or NYC (downtown) - hybrid in both locations; no remote
+Work Location: HYBRID in Boston or NYC (downtown) Headcount: ~33, hiring 2-3 per month
+Stack: React / Typescript / Python / GCP
+Open Roles: Fullstack Engineer (Sr/Staff) * EHR Integrations Engineer (FHIR) * ML Infrastructure (Staff+) * Research Scientist (PhD's) * Data Scientist (Sr/Staff)and looking for CS/previous eng background ideally * Security Engineer * ML Engineer / ML Infra
+We Offer: * competitive base salary + equity + great health/medical benefits * unlimited PTO * collaborative engineering-first culture, in office 2-3 days per week in Boston and NYC offices
+Layer Health was founded in 2023 by leading machine learning researchers from MIT and Harvard Medical School. We are building an AI layer that can accurately and scalably synthesize information from medical records, with the mission to reduce friction everywhere in healthcare. Our LLM-powered platform is solving chart review once and for all, across use cases. For health systems, our first product dramatically accelerates clinical registry abstraction in areas ranging from surgery and cardiology, to oncology. Our long term vision is for our AI layer to safely transform patient care and minimize unnecessary heartbreak. Layer Health’s diverse founding team brings expertise across machine learning, UI/UX, large language models, and medicine.
+Email me at [email] for more info!",1545
+2025-12,46108941,46110790,2025-12-01T18:12:17.000Z,Renaissance Philanthropy | Research Engineer / MLE / Full-stack | Remote (worldwide),"Renaissance Philanthropy | Research Engineer / MLE / Full-stack | Remote (worldwide)
+Renaissance Philanthropy's aim is to activate a virtuous circle of increasing ambition and impact between philanthropists and innovators: by identifying frontier experts both in science and in new ways of solving problems; by tapping into the growing number of emerging philanthropists; and by building multi-sector initiatives that can harness the power of philanthropy, markets, and governments.
+RenPhil's Engineering Hub supports mission-driven, grant-funded educational technology projects that seek to improve educational outcomes in fundamental skills like math and reading. The Engineering Hub consists of data scientists, machine learning engineers, and full-stack developers who collaborate with researchers and entrepreneurs to build scalable, measurably effective tools for teachers and students.
+We’re looking for folks who:
+- can speak the languages of both research and engineering
+- are creative problem solvers
+- are comfortable with navigating ambiguity
+- want to help create a world where all children receive a high-quality education.
+If this sounds like you, please apply!
+https://www.renaissancephilanthropy.org/careers",1225
+2025-12,46108941,46116912,2025-12-02T03:01:24.000Z,Vividly | Fully Remote | Full Time | Staff Software Engineer,"Vividly | Fully Remote | Full Time | Staff Software Engineer
+We’re a Series B start up disrupting the consumer goods industry and moving their finance, sales, and ops teams from spreadsheets and onto a modern software platform. We partner with hundreds of well known brands such as Hint, Liquid Death, and Chomps. We're looking for an awesome staff engineer to join our team. Our tech stack is Python, Rust, and Postgres.
+https://ats.rippling.com/vividly/jobs/3f505e4e-b81e-4136-bc7...",485
+2026-06,48357725,48372372,2026-06-02T16:23:14.000Z,This Dot Labs,"This Dot Labs
+Open roles:
+• Engineering Leads
+• Architects
+• Senior Engineers
+What we’re looking for:
+• Strong frontend engineering experience
+• 7+ years building production systems
+• Engineers already using AI in real workflows
+• Systems thinking and technical ownership
+• Comfortable working across teams and ambiguity
+Fully remote with US time zone overlap required.
+[email]",377
+2026-02,46857488,46858612,2026-02-02T17:27:44.000Z,"Sage | Engineering & Product | Hybrid (2 days remote, 3 days in New York City/NYC area) | Full-Time | https://www.sagehealth.com","Sage | Engineering & Product | Hybrid (2 days remote, 3 days in New York City/NYC area) | Full-Time | https://www.sagehealth.com
+We're building hardware & software systems to improve elder care, and used by thousands across the country. Want to know that your work is directly improving people's lives? Come talk to us. https://www.sagehealth.com/company/careers
+Roles include:
+> Senior/Staff Backend or Fullstack Engineers, Product - own and help build a significant new part of our platform
+> Senior Product Managers for Hardware and New Markets - help shape the future of our business
+Roles in Edge/IoT to come in the following weeks as well. We're growing a lot this year; keep an eye on our Careers page, and feel free to reach out to alisa [at] sagehealth dot com with questions.",785
+2026-06,48357725,48509534,2026-06-12T21:17:38.000Z,"Compa.AI | Enterprise Security Engineer | Hybrid (US - Irvine, Denver, Seattle) | Full-time | 175 - 205k + equity/benefits","Compa.AI | Enterprise Security Engineer | Hybrid (US - Irvine, Denver, Seattle) | Full-time | 175 - 205k + equity/benefits
+We're looking for a first Enterprise Security Hire (reporting to Head of Sec/IT) at an Irvine based AI Startup. Completed series B in January - exciting time to join!
+https://jobs.ashbyhq.com/compa/1fe329ea-f4a5-4605-8a2a-febf8...
+The Role
+We are looking for an Enterprise Security Engineer to help build and operate Compa’s security-first enterprise environment.
+This is a senior individual contributor role reporting directly to the Head of Security & IT. You'll own the systems that define how employees access, use, and interact with technology at Compa — identity, access, endpoints, and enterprise SaaS — and treat them as core security infrastructure, not traditional IT.
+This role sits on the Security team and partners closely with the rest of the business to help Compa move fast, securely, all while delivering a world-class employee experience.
+We're open to candidates earlier in their career who demonstrate strong systems thinking, sound judgment, and the ability to design for scale. We care more about what you can do than how many years you have been doing it.",1201
+2025-11,45800465,45803442,2025-11-03T19:39:22.000Z,"Radar Labs | Software Engineers (SRE, data platform, backend, full-stack, mobile) | Remote (US), NYC | Full Time | https://radar.com","Radar Labs | Software Engineers (SRE, data platform, backend, full-stack, mobile) | Remote (US), NYC | Full Time | https://radar.com
+- Radar is the geo-location dev tool
+- Doing 1B+ API calls per day
+- Our main languages are Rust and TypeScript, we also use mobile and offline pipeline languages (Python, Scala, and Terraform).
+- We're based in NYC with our HQ in Union Square and remote friendly (US)
+Interesting things we're working on:
+- HorizonDB, our Geospatial database written in Rust
+- Precise indoor location more accurate than iOS and Android leveraging Ultra-Wideband, other mobile sensors and ML.
+- Extracting raw map data from satellite maps and the web leveraging ML and AI
+- Anomaly detection to identify spoofed locations
+- Mobile infrastructure that automatically configures itself optimizing battery-life and location accuracy for different use-cases over time
+- Multi-Region AWS K8s deployment, 99.99%+ availability
+- Frontend tools to visualize and debug location data at scale
+Check out our jobs page here: https://radar.com/jobs#jobs If you have any questions, feel free to reply here or you can e-mail me at [email]",1138
+2026-01,46466074,46507517,2026-01-06T01:09:48.000Z,"Tasklet | Staff Software Engineer - AI Agents | San Francisco, CA | ONSITE | $260k-$330k + 0.8-1.6% equity","Tasklet | Staff Software Engineer - AI Agents | San Francisco, CA | ONSITE | $260k-$330k + 0.8-1.6% equity
+At Tasklet (https://tasklet.ai/), we're building the world's most powerful AI agent platform for business automation.
+We're looking for a staff-level software engineer to share technical leadership of our core agent infrastructure. You'll architect systems for multi-step agent orchestration, state management, trigger systems, and seamless integration with thousands of APIs.
+Our stack: TypeScript, React, GCP, Kubernetes, Claude
+Looking for: 5+ years experience building production-scale systems, proven technical leadership, experience building AI agents, exceptional programming skills across the full stack.
+Compensation: $260k-$330k salary + 0.8-1.6% equity, competitive benefits including medical, dental, vision, 401k, 4 weeks PTO
+Apply: https://shortwave.notion.site/Open-Positions-at-Tasklet-2a36...",916
+2026-04,47601859,47603013,2026-04-01T16:26:02.000Z,Veritus | Full Stack Developer | San Francisco (Hybrid),"Veritus | Full Stack Developer | San Francisco (Hybrid)
+Veritus is reinventing loan servicing and debt collection with AI. Our platform enables lenders, servicers, and collections agencies to spin up, personalize, and A/B test AI agents across voice, email, SMS, and chat, while we ensure compliance.
+$180k-$250k + equity + benefits
+Apply: https://www.ycombinator.com/companies/veritus/jobs/pfkev5c-f...",403
+2026-09,49522897,49523985,2026-09-01T16:10:24.000Z,Starbridge | Senior AI Engineer and Senior Product Engineer | NYC or Remote | Full-time |,"Starbridge | Senior AI Engineer and Senior Product Engineer | NYC or Remote | Full-time |
+https://starbridge.ai/
+Starbridge is building an AI platform that turns large-scale public and enterprise data into reliable sales insights. We are early, moving fast, and building from zero to one, so this role will have huge ownership and product impact.
+AI Engineer: Applied AI plus strong software engineering. You will build, evaluate, and deploy LLM-driven features like deep document analysis and interactive chat, working with models from OpenAI, Anthropic, and Gemini. Expect hands-on Python, ML system design, experimentation, and production reliability. Bonus for RAG depth and frameworks like LangChain, LlamaIndex, or Hugging Face.
+Product Engineer: (React/Typescript) who would work closely with product and design to build user-facing parts of the platform. You will craft performant, stable frontends that explain technical concepts to non-technical users and help us iterate fast based on customer feedback.
+We're looking to build our in-person team in NYC but also open to remote!
+Apply: https://starbridge.ai/careers and mention HackerNews or email [email] with your resume.",1183
+2026-06,48357725,48364629,2026-06-02T01:06:49.000Z,z0.ai | Full Time | Founding Engineer | On Site 5 days a week | NYC | $140-$180k USD + equity,"z0.ai | Full Time | Founding Engineer | On Site 5 days a week | NYC | $140-$180k USD + equity
+We're helping non technical users adopt AI by making usage visible. Power users become role models and people can upskill to gain value rather than lose their jobs to AI.
+It's a complex problem because we need to balance trivial UX, with a slew of security and compliance requirements.
+This is the first non founder developer role on the z0.ai codebase. We need someone who can own the full stack end to end: product surfaces people enjoy using, services that stay correct, and the taste to make both feel like one product.
+We're funded and are live with our first customer already. We expect to onboard our next customer later this week and are actively ramping up sales efforts.
+Check out the full job posting at https://www.z0.ai/careers/founding-engineer/ and send an email to [email]",882
+2026-06,48357725,48416066,2026-06-05T18:04:31.000Z,"vvd | Design Engineer | Remote (work from anywhere) | Full-time | React, TypeScript, Next.js","vvd | Design Engineer | Remote (work from anywhere) | Full-time | React, TypeScript, Next.js
+https://vvd.world
+We’re building tools for storytellers, worldbuilders, writers, and creators.
+We’re looking for a Design Engineer who can design and build polished product experiences end-to-end. You should care deeply about taste, interaction, motion, and frontend craft, but also understand enough about APIs, auth, and data flow to avoid getting blocked.
+We’re AI-native, but not trying to replace human creativity. We use tools like Cursor and Claude Code as leverage to move faster while keeping a high quality bar.
+Strong fit if you’ve shipped real things, can go from rough idea to polished implementation without waiting for perfect specs, and have built interfaces that feel good, not just functional.
+Apply: https://jobs.ashbyhq.com/vvd/c56cc77f-1ac1-4e31-9281-b7d0121...",875
+2026-02,46857488,46868088,2026-02-03T08:16:44.000Z,Runable | Software Engineer | Bangalore | 60-120K USD depending on the candidate,"Runable | Software Engineer | Bangalore | 60-120K USD depending on the candidate
+https://runable.com is an AI suite for everyone. You can create decks, reports, documents, designs, websites etc by just describing what you want.
+We are looking for exceptional engineers to join us as we scale. We already process 100 billion+ tokens and billions of requests monthly.
+Send your best work to [email]
+We don’t do DSA, leetcode etc and have a very hands on approach to interviewing",476
+2026-08,49156683,49163131,2026-08-04T00:41:39.000Z,"Storepass | Senior Software Engineer, Quality Assurance, Sales and Marketing, Customer Service Representative | ONSITE, Burlingame, CA | Full-Time | $40k-$150k","Storepass | Senior Software Engineer, Quality Assurance, Sales and Marketing, Customer Service Representative | ONSITE, Burlingame, CA | Full-Time | $40k-$150k
+Storepass is a profitable SaaS company helping game stores sell Pokemon cards, TCGs, board games, and related inventory online. We build ecommerce, inventory, pricing, buylist, and store operations tools for retailers, including integrations with platforms like Shopify and BigCommerce.
+Open roles:
+Senior Software Engineer | $100k-$150k
+Build core product features, improve platform stability and performance, and help shape technical direction. Stack: Node.js, Express.js, React, MongoDB.
+Quality Assurance | $45k-$70k
+Test retailer workflows across inventory, pricing, buylist, ecommerce, and POS tools. Reproduce issues, write clear bug reports, run regression checks, and work closely with product, engineering, and support.
+Sales and Marketing | $45k-$75k
+Run product demos, follow up with interested stores, research good-fit retailers, and help build outbound campaigns and messaging.
+Customer Service Representative | $40k-$55k
+Help stores use Storepass successfully through email, chat, and phone support. Troubleshoot product issues, document customer feedback, and work with the product team to improve the experience.
+We’re especially interested in people who like small teams, high ownership, ecommerce, retail workflows, and trading card games.
+Apply: https://storepass.co/jobs
+Email: [email]",1467
+2026-03,47219668,47224165,2026-03-02T21:15:02.000Z,"https://ando.work/ is revolutionizing life for 100Ms of hourly workers with shift schedules and assignments that fit their lives, their families, second+ jobs and hobbies, personalities, commutes, etc","https://ando.work/ is revolutionizing life for 100Ms of hourly workers with shift schedules and assignments that fit their lives, their families, second+ jobs and hobbies, personalities, commutes, etc.
+We're looking for a lead data/pipeline/integrations engineer who can help connect to POS, HR, ERP, etc. While LLMs will write the code of course, we need someone who understand the gestalt of integration, clean data, working with sometimes-difficult partners, workarounds for messy situations, scaling, etc.
+We're also looking for algorithms engineers with experience in scheduling and assignment, but excited to take an LLM-first approach, which we've proven works in this case and blows away classical solvers. Yes, we've done the math on scaling.
+Ando is a Seed stage startup, backed by SV insiders with delightful track records.",834
+2026-09,49522897,49526396,2026-09-01T18:58:38.000Z,"Boom Supersonic | https://boomsupersonic.com/ | Senior, Staff, Principal Software Engineer | ONSITE Denver, CO | Full-time | $180k - $225k + Equity","Boom Supersonic | https://boomsupersonic.com/ | Senior, Staff, Principal Software Engineer | ONSITE Denver, CO | Full-time | $180k - $225k + Equity
+Help us build an AI-first engineering, manufacturing, and supply chain platform. What if you could ask AI: ""how does this new turbine blade geometry affect our 42MW power requirements?"" And actually get a meaningful answer? This is the platform that supports Superpower, Symphony, and Overture from design to deployment across multiple factories. If you love hard-tech, distributed systems, web apps, and building AI infrastructure at scale, please apply.
+Also hiring for telemetry and engine design and analysis software roles.
+Apply here: https://ats.rippling.com/boom-supersonic/jobs/21b8325e-66aa-...
+Feel free to email me at mark[dot]miller[at]boom.aero",806
+2025-11,45800465,45804393,2025-11-03T21:02:43.000Z,Absinthe Labs | Full-Stack Engineer | REMOTE / NYC Hybrid | Full-Time,"Absinthe Labs | Full-Stack Engineer | REMOTE / NYC Hybrid | Full-Time
+About us: Absinthe is building the most sophisticated gamification engine for crypto-native incentive programs. Since 2022, our products have reached 50M+ visits and 2M+ active users. We’re a 10 person, well-funded team shipping fast.
+The problem we’re solving: Tracking per-user activity across DeFi protocols sounds simple but is surprisingly hard. Want to know how long someone held an LP position, or which users provided liquidity for more than 30 days? That data is on-chain but can’t be efficiently queried today.
+We built an indexing framework that turns protocol events into time-weighted balances and point-in-time actions. Adapters map protocol-specific semantics (Uniswap ≠ Aave ≠ Morpho) into a unified model. The engine handles state, TWAP pricing, and exporting data anywhere. With ~100 lines of adapter code, you can track user balances and contributions at a fidelity no one else supports.
+Why it matters: This infrastructure underpins analytics, loyalty, and incentive programs across Web3. We see the Absinthe Adapter Library becoming the default developer layer for embedded finance.
+The role: We’re hiring a Full-Stack Engineer to own features end-to-end schema design, wiring GraphQL, polished frontends, and deployment. Our stack: Next.js, Hasura, dbt, MotherDuck/DuckDB, GraphQL, and in-house Web3 indexing. See open positions here: absinthe.network/careers#open-positions
+Get involved: - Explore product functionalities at: [https://guides.absinthe.network](https://guides.absinthe.network/)
+- Explore the Adapter Library docs: https://docs.absinthe.network/
+- Join our Slack community to hack on adapters and connect with the team: https://join.slack.com/t/absinthecommunity/shared_invite/zt-...",1791
+2025-11,45800465,45804933,2025-11-03T21:57:36.000Z,"Marple | Antwerp, Belgium | Full-time | Hybrid on-site + WFH","Marple | Antwerp, Belgium | Full-time | Hybrid on-site + WFH
+We are building software for handling huge time series from R&D in Aerospace & Automotive. Engineers use Marple to analyse data from exciting stuff such as: space rovers, eVTOL aircraft, electrical hyper cars, …
+We are looking for a technical mind with a love for customers to become our head of customer success.
+Reach out to nero (at) marpledata (dot) com",418
+2026-10,49922569,49925643,2026-10-01T18:55:40.000Z,It's my duty again to point out the popular request of including a 4DWW tag in the description to communicate community interest in the Four Day Work Week,"It's my duty again to point out the popular request of including a 4DWW tag in the description to communicate community interest in the Four Day Work Week
+Four characters more in the description is all we ask <bowing>",217
