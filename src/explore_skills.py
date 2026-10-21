@@ -18,12 +18,17 @@ import pandas as pd
 
 from skills import SKILL_PATTERNS, find_skills
 
-# Weak label: does the HEADLINE (first line of the post) look like a data/ML role?
-# Headlines include the company name, so this is noisy ("Acme AI | Frontend Engineer"
-# would match). Week 3 measures how noisy it is using a hand-labelled gold set.
+# Weak label: does the HEADLINE (first line of the post) name a data/ML role?
+# A bare "AI" is NOT matched: it fires on company names and web addresses
+# ("Acme AI | Frontend Engineer", "krea.ai"). Instead the rule needs a role title
+# such as "ML Engineer", "AI Engineer" or "Data Scientist". "AI Fullstack Engineer"
+# and "AI Product Engineer" are deliberately NOT matched. Week 3 measures how good
+# this rule is against a hand-labelled gold set.
 DATA_ML_HEADLINE = re.compile(
-    r"data scien|data engineer|data analy|machine learning|\bML\b|\bAI\b|\bLLM\b|\bNLP\b|"
-    r"research scien|applied scien|mlops|analytics engineer",
+    r"data[- ](?:scien|engineer|analy)|machine[- ]learning|\bML\b|"
+    r"\b(?:AI|LLM|NLP)\s+(?:(?:staff|senior|sr\.?|principal|lead)\s+)?"
+    r"(?:engineer(?:ing)?|scientist|researcher)|"
+    r"research scien|applied scien|mlops|analytics engineer|\bLLM\b|\bNLP\b",
     re.IGNORECASE,
 )
 MIN_POSTS_FOR_MONTH_ESTIMATE = 20
